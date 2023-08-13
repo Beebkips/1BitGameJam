@@ -1,0 +1,1 @@
+global.playerKeyItemAmount = 0;
