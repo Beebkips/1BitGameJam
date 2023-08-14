@@ -1,1 +1,1 @@
-displayEnabled = !displayEnabled;
+shaderEnabled = !shaderEnabled;

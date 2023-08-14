@@ -73,8 +73,8 @@
     {"id":{"name":"rInit","path":"rooms/rInit/rInit.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"rLightingTest","path":"rooms/rLightingTest/rLightingTest.yy",},},
     {"roomId":{"name":"rInit","path":"rooms/rInit/rInit.yy",},},
+    {"roomId":{"name":"rLightingTest","path":"rooms/rLightingTest/rLightingTest.yy",},},
     {"roomId":{"name":"rMain","path":"rooms/rMain/rMain.yy",},},
     {"roomId":{"name":"rTitleScreen","path":"rooms/rTitleScreen/rTitleScreen.yy",},},
     {"roomId":{"name":"rEnding","path":"rooms/rEnding/rEnding.yy",},},
