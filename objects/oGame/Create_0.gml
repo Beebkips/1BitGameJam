@@ -12,3 +12,4 @@ global.playerKeyItems = [];
 global.playerKeyItems[0] = KEYITEMS.KEY1;
 // global.playerKeyItems[1] = KEYITEMS.KEY2;
 global.playerKeyItems[1] = KEYITEMS.KEY3;
+u_pos = shader_get_uniform(shLight, "u_pos");
