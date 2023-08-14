@@ -45,6 +45,7 @@
     {"id":{"name":"macros","path":"scripts/macros/macros.yy",},},
     {"id":{"name":"pEntity","path":"objects/pEntity/pEntity.yy",},},
     {"id":{"name":"rEnding","path":"rooms/rEnding/rEnding.yy",},},
+    {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"rTitleScreen","path":"rooms/rTitleScreen/rTitleScreen.yy",},},
     {"id":{"name":"sKeyItems","path":"sprites/sKeyItems/sKeyItems.yy",},},
     {"id":{"name":"oItemPickUp","path":"objects/oItemPickUp/oItemPickUp.yy",},},
