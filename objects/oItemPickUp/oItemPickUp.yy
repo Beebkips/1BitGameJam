@@ -2,9 +2,7 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "oItemPickUp",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
-  ],
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -31,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite2",
-    "path": "sprites/Sprite2/Sprite2.yy",
+    "name": "sKeyItems",
+    "path": "sprites/sKeyItems/sKeyItems.yy",
   },
   "spriteMaskId": null,
   "visible": true,
