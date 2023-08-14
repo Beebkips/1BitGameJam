@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oDummyFrog",
+  "name": "oLight",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -25,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "sFrog",
-    "path": "sprites/sFrog/sFrog.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
