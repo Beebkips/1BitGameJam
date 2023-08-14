@@ -18,11 +18,14 @@
     {"name":"Tiles","order":1,"path":"folders/Sprites/Tiles.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"UI","order":4,"path":"folders/Sprites/UI.yy",},
+    {"name":"TitleScreen","order":15,"path":"folders/Objects/TitleScreen.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"oAmmo","order":5,"path":"objects/oAmmo/oAmmo.yy",},
     {"name":"tTiles","order":1,"path":"tilesets/tTiles/tTiles.yy",},
     {"name":"oCamera","order":1,"path":"objects/oCamera/oCamera.yy",},
+    {"name":"rTitleScreen","order":5,"path":"rooms/rTitleScreen/rTitleScreen.yy",},
     {"name":"rLightingTest","order":4,"path":"rooms/rLightingTest/rLightingTest.yy",},
     {"name":"sDoor","order":3,"path":"sprites/sDoor/sDoor.yy",},
     {"name":"oMouseLight","order":12,"path":"objects/oMouseLight/oMouseLight.yy",},
@@ -42,5 +45,7 @@
     {"name":"oUI","order":2,"path":"objects/oUI/oUI.yy",},
     {"name":"sAmmo","order":2,"path":"sprites/sAmmo/sAmmo.yy",},
     {"name":"TextFunctions","order":1,"path":"scripts/TextFunctions/TextFunctions.yy",},
+    {"name":"pButton","order":1,"path":"objects/pButton/pButton.yy",},
+    {"name":"oButtonQuit","order":2,"path":"objects/oButtonQuit/oButtonQuit.yy",},
   ],
 }
