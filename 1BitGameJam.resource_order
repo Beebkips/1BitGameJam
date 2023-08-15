@@ -34,6 +34,7 @@
     {"name":"oLight","order":10,"path":"objects/oLight/oLight.yy",},
     {"name":"rMain","order":1,"path":"rooms/rMain/rMain.yy",},
     {"name":"pEntity","order":2,"path":"objects/pEntity/pEntity.yy",},
+    {"name":"sndDoor","order":1,"path":"sounds/sndDoor/sndDoor.yy",},
     {"name":"rEnding","order":3,"path":"rooms/rEnding/rEnding.yy",},
     {"name":"oPostProcessing","order":3,"path":"objects/oPostProcessing/oPostProcessing.yy",},
     {"name":"shOrderedDither","order":1,"path":"shaders/shOrderedDither/shOrderedDither.yy",},
