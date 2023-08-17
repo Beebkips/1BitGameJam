@@ -17,3 +17,6 @@ if (inputMagnitude != 0)
 	var _animLength = sprite_get_number(sprite_index) / 8;
 	image_index = (((inputDirection / 45) + 1) % 8) + _animLength;
 }
+
+audio_listener_position(x, y, 0);
+
