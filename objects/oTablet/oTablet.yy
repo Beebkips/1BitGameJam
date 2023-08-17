@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oText",
+  "name": "oTablet",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
@@ -10,10 +10,13 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Entities",
+    "path": "folders/Objects/Entities.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "pEntity",
+    "path": "objects/pEntity/pEntity.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -27,9 +30,15 @@
   "physicsShape": 1,
   "physicsShapePoints": [],
   "physicsStartAwake": true,
-  "properties": [],
+  "properties": [
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"drawState","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"False","varType":3,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"drawMessage","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"\"This is a default message\"","varType":2,},
+  ],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "sTablet",
+    "path": "sprites/sTablet/sTablet.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

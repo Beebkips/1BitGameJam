@@ -13,7 +13,8 @@
     {"name":"inst_569700E3","path":"rooms/rInit/rInit.yy",},
     {"name":"inst_D5DE0C3","path":"rooms/rInit/rInit.yy",},
     {"name":"inst_47C18FD5","path":"rooms/rInit/rInit.yy",},
-    {"name":"inst_53EC8FAA","path":"rooms/rInit/rInit.yy",},
+    {"name":"inst_260412B3","path":"rooms/rInit/rInit.yy",},
+    {"name":"inst_11721BDA","path":"rooms/rInit/rInit.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -24,7 +25,12 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_569700E3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":192.0,"y":64.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_D5DE0C3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oPostProcessing","path":"objects/oPostProcessing/oPostProcessing.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":0.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_47C18FD5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oMonster","path":"objects/oMonster/oMonster.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":320.0,"y":160.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_53EC8FAA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oText","path":"objects/oText/oText.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":160.0,"y":144.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_260412B3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oTablet","path":"objects/oTablet/oTablet.yy",},"properties":[
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"oTablet","path":"objects/oTablet/oTablet.yy",},"propertyId":{"name":"drawMessage","path":"objects/oTablet/oTablet.yy",},"value":"\"Hello\"",},
+          ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":144.0,"y":160.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_11721BDA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oTablet","path":"objects/oTablet/oTablet.yy",},"properties":[
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"oTablet","path":"objects/oTablet/oTablet.yy",},"propertyId":{"name":"drawMessage","path":"objects/oTablet/oTablet.yy",},"value":"\"This is a default message\"",},
+          ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":240.0,"y":224.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"playerCollision","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":17,"SerialiseWidth":30,"TileCompressedData":[
 -31,1,-4,-2147483648,-11,0,-13,-2147483648,-2,1,-28,-2147483648,-2,1,-28,-2147483648,-2,1,-2,-2147483648,3,1,-2147483648,1,-12,-2147483648,-2,1,-9,-2147483648,
