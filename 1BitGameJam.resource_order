@@ -38,6 +38,7 @@
     {"name":"oPostProcessing","order":3,"path":"objects/oPostProcessing/oPostProcessing.yy",},
     {"name":"shOrderedDither","order":1,"path":"shaders/shOrderedDither/shOrderedDither.yy",},
     {"name":"sKeyItems","order":1,"path":"sprites/sKeyItems/sKeyItems.yy",},
+    {"name":"PlayerCollision","order":2,"path":"scripts/PlayerCollision/PlayerCollision.yy",},
     {"name":"oItemPickUp","order":1,"path":"objects/oItemPickUp/oItemPickUp.yy",},
     {"name":"shLight","order":2,"path":"shaders/shLight/shLight.yy",},
     {"name":"sWallBlock","order":2,"path":"sprites/sWallBlock/sWallBlock.yy",},
@@ -51,6 +52,7 @@
     {"name":"sBack","order":1,"path":"sprites/sBack/sBack.yy",},
     {"name":"pButton","order":1,"path":"objects/pButton/pButton.yy",},
     {"name":"oControls","order":5,"path":"objects/oControls/oControls.yy",},
+    {"name":"sTest","order":5,"path":"sprites/sTest/sTest.yy",},
     {"name":"oButtonQuit","order":2,"path":"objects/oButtonQuit/oButtonQuit.yy",},
   ],
 }
