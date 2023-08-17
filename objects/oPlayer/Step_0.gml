@@ -10,8 +10,7 @@ inputMagnitude = (keyRight - keyLeft != 0) || (keyDown - keyUp != 0);
 hSpeed = lengthdir_x(inputMagnitude * pSpeed, inputDirection);
 vSpeed = lengthdir_y(inputMagnitude * pSpeed, inputDirection);
 
-x += hSpeed;
-y += vSpeed;
+PlayerCollision();
 
 if (inputMagnitude != 0)
 {
@@ -20,3 +19,4 @@ if (inputMagnitude != 0)
 }
 
 audio_listener_position(x, y, 0);
+

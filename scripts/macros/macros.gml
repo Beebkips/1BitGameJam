@@ -1,5 +1,7 @@
 #macro RESOLUTION_W 480
 #macro RESOLUTION_H 270
+#macro TILE_SIZE 16
+#macro P_BOUND_SIZE 5
 
 enum KEYITEMS {
 	BLANK,

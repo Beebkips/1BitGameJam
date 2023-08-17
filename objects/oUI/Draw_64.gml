@@ -1,6 +1,6 @@
 // Draw item pick ups
 
-show_debug_message("Here")
+// show_debug_message("Here")
 
 if (array_length(global.playerKeyItems) > 0)
 {
