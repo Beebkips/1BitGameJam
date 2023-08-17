@@ -25,7 +25,7 @@ if (check == 0)
 		// Door is opening and player is near
 		else if (image_index > 0 && _dist < 32 && image_index != _df)
 		{
-			image_speed = 1	
+			image_speed = 1
 		}
 		// Door is open and player is not near
 		else if (image_index != 0  && _dist > 32)

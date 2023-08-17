@@ -4,7 +4,7 @@
   "name": "sPlayer",
   "bbox_bottom": 23,
   "bbox_left": 3,
-  "bbox_right": 12,
+  "bbox_right": 14,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -32,8 +32,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Entities",
+    "path": "folders/Sprites/Entities.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
