@@ -3,6 +3,7 @@ keyRight = keyboard_check(ord("D"));
 keyUp = keyboard_check(ord("W"));
 keyDown = keyboard_check(ord("S"));
 keyFlashlight = keyboard_check_pressed(ord("F"));
+keyActivate = keyboard_check_pressed(ord("E"));
 
 inputDirection = point_direction(0, 0, keyRight - keyLeft, keyDown - keyUp);
 inputMagnitude = (keyRight - keyLeft != 0) || (keyDown - keyUp != 0);
