@@ -66,7 +66,6 @@
     {"id":{"name":"rEnding","path":"rooms/rEnding/rEnding.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"oPostProcessing","path":"objects/oPostProcessing/oPostProcessing.yy",},},
-    {"id":{"name":"NewTextBox","path":"scripts/NewTextBox/NewTextBox.yy",},},
     {"id":{"name":"tCol","path":"tilesets/tCol/tCol.yy",},},
     {"id":{"name":"shOrderedDither","path":"shaders/shOrderedDither/shOrderedDither.yy",},},
     {"id":{"name":"sKeyItems","path":"sprites/sKeyItems/sKeyItems.yy",},},

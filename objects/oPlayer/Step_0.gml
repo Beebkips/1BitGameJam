@@ -20,5 +20,3 @@ if (inputMagnitude != 0)
 }
 
 audio_listener_position(x, y, 0);
-
-//TabletInteract();

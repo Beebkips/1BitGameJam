@@ -42,7 +42,6 @@
     {"name":"rEnding","order":3,"path":"rooms/rEnding/rEnding.yy",},
     {"name":"sPlayer","order":1,"path":"sprites/sPlayer/sPlayer.yy",},
     {"name":"oPostProcessing","order":3,"path":"objects/oPostProcessing/oPostProcessing.yy",},
-    {"name":"NewTextBox","order":3,"path":"scripts/NewTextBox/NewTextBox.yy",},
     {"name":"shOrderedDither","order":1,"path":"shaders/shOrderedDither/shOrderedDither.yy",},
     {"name":"sKeyItems","order":1,"path":"sprites/sKeyItems/sKeyItems.yy",},
     {"name":"PlayerCollision","order":2,"path":"scripts/PlayerCollision/PlayerCollision.yy",},
