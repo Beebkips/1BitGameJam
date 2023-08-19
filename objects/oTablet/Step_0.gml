@@ -3,7 +3,7 @@ if (keyboard_check_pressed(vk_space))
 	var _messageLength = string_length(drawMessage);
 	if (textProgress >= _messageLength)
 	{
-		instance_destroy();
+		drawState = false;
 	}
 	else
 	{
